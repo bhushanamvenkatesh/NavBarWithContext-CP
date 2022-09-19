@@ -1,0 +1,57 @@
+/* Write your CSS here */
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  width: 10%;
+  align-items: center;
+}
+
+.theme-image {
+  height: 5%;
+  width: 4%;
+}
+
+.theme-button {
+  height: 50%;
+  width: 30%;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+
+.each-link {
+  text-decoration: none;
+  font-weight: 700;
+  font-family: roboto;
+}
+
+.darkBg {
+  background-color: #333333;
+}
+
+.whiteBg {
+  background-color: white;
+}
+
+.whiteList {
+  color: white;
+}
+.darklist {
+  color: black;
+}
+
+.list-button {
+  background-color: transparent;
+  border: none;
+}

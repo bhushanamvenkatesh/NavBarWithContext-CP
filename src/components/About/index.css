@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.about-image {
+  height: 40%;
+  width: 20%;
+}
+
+.darkColor {
+  background-color: #000000;
+}
+
+.whiteColor {
+  background-color: white;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+  color: black;
+}
